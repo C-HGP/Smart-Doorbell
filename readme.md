@@ -22,7 +22,7 @@ It is **important** that you plug in the button with cam first, or the speaker w
 - [x] 
 
 # Schematics #
-![alt text](
+![alt text](https://github.com/C-HGP/Smart-Doorbell/blob/master/Pictures/Fritzing.jpg)
 
 # Pictures # 
 ![alt text](https://github.com/C-HGP/Smart-Doorbell/blob/master/Pictures/IMG_0334.jpg)
