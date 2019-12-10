@@ -7,6 +7,10 @@ It does sound, like a regular doorbell when you press the button, but it also st
 
 We made this as a project for our embedded class.
 
+# Setup #
+Both the folders will have individual instructions for both units.
+It is **important** that you plug in the button with cam first, or the speaker will fail to find the MQTT server. 
+
 # Components # 
 * RasPi Zero x2
 * Button
