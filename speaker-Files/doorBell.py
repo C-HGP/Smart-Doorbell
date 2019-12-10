@@ -10,7 +10,7 @@ def on_connect(client, userdata, flags, rc):
 def on_message(client, userdata, msg):
 
     print(msg.topic+" "+str(msg.payload))
-    os.system("curl -X POST -H \'Content-type: application/json\' --data \'{\"text\":\"Someone is at the door... <http://192.168.10.71:8080/stream.html|Click here for video feed>\"}\' https://hooks.slack.com/services/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")
+    os.system("curl -X POST -H \'Content-type: application/json\' --data \'{\"text\":\"Someone is at the door... <http://192.168.10.71:8080/stream.html|Click here for video feed>\"}\' YOURWEBHOOKURLHERE")
     os.system("play BingBong.mp3 vol 9")
 
 client = mqtt.Client()
