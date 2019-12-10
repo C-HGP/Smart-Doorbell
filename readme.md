@@ -19,7 +19,7 @@ It is **important** that you plug in the button with cam first, or the speaker w
 * RasPi electrical adapters 
 
 ***TODO***
-- [x] 
+- [ ] Find something to improve
 
 # Schematics #
 ![alt text](https://github.com/C-HGP/Smart-Doorbell/blob/master/Pictures/Fritzing.jpg)
