@@ -6,4 +6,5 @@ We used their streaming code and edited the HTML to get rid of the unnecessary b
 You'll also need to get **bell.py** to autorun, we edited bash.rc.
 
 You will also need to install mosquitto to get MQTT working
+
 Google can help you with this! 
