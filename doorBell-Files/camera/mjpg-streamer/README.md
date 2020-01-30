@@ -1,8 +1,8 @@
 mjpg-streamer
 =============
 
-This is a fork of http://sourceforge.net/projects/mjpg-streamer/ with added support for the Raspberry Pi camera via the input_raspicam plugin.
-
+This is a remix of https://github.com/jacksonliam/mjpg-streamer where we removed all unnecessary buttons etc and just made it into a simple streamer.
+Original mjpg-streamer here: http://sourceforge.net/projects/mjpg-streamer/ 
 Authors
 =======
 
