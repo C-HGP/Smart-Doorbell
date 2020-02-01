@@ -22,7 +22,7 @@ It is **important** that you plug in the button with cam first, or the speaker w
 - [ ] Computer Vision
 
 ***Known Issues***
-- [ ] Fix webhook sending more than 1 slack message. 
+- [ ] Fix webhook sending more than 1 slack message sometimes. 
 
 # Schematics #
 ![alt text](https://github.com/C-HGP/Smart-Doorbell/blob/master/Pictures/Fritzing.jpg)
