@@ -19,6 +19,7 @@ It is **important** that you plug in the button with cam first, or the speaker w
 * RasPi electrical adapters 
 
 ***TODO***
+I been experimenting with computer vision and facial recognition lately and I really want to add Computer Vision into this project to atleast be able to detect sex, and guess the age to give the user a clue about who it could be before watching the stream. 
 - [ ] Computer Vision
 
 ***Known Issues***
